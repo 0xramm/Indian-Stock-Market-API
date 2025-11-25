@@ -2,7 +2,7 @@
 
 Free REST API for fetching real-time stock prices from both NSE (National Stock Exchange) and BSE (Bombay Stock Exchange) of India. Perfect for automation tools like n8n, Make, Zapier, Node-RED, trading bots, and financial applications.
 
-**Base URL:** `http://nse-api-khaki.vercel.app:5000`
+**Base URL:** `http://nse-api-khaki.vercel.app/`
 
 **Version:** 2.4
 

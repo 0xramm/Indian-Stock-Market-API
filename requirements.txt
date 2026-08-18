@@ -1,0 +1,6 @@
+Flask==3.0.0
+nsepy==0.8
+requests==2.31.0
+pandas
+numpy
+yfinance
